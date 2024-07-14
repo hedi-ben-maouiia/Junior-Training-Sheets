@@ -7,7 +7,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 
 
 ## List of the problem solved :
-**PS Count 7/950**
+**PS Count 11/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -16,6 +16,10 @@ This is a training sheet for competitive programming for practicing algorithm an
 5. [Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 6. [Petya and Strings](https://codeforces.com/contest/112/problem/A)
 7. [Boy or Girl](https://codeforces.com/contest/236/problem/A)
+8. [Word](https://codeforces.com/contest/59/problem/A)
+9. [Magents](https://codeforces.com/contest/344/problem/A)
+10. [Sereja and Dima](https://codeforces.com/contest/381/problem/A)
+11. [Stones on The Table](https://codeforces.com/contest/266/problem/A)
 
 
 
