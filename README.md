@@ -7,7 +7,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 
 
 ## List of the problem solved :
-**PS Count 20/950**
+**PS Count 26/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -30,7 +30,12 @@ This is a training sheet for competitive programming for practicing algorithm an
 18. [Colorful Stones](https://codeforces.com/contest/265/problem/A)
 19. [Die Roll](https://codeforces.com/contest/9/my)
 20. [Shaass and Okols](https://codeforces.com/contest/294/problem/A)
-
+21. [Juicer](https://codeforces.com/contest/709/problem/A)
+22. [Carrot Cakes](https://codeforces.com/contest/799/problem/A)
+23. [Anton And Letters](https://codeforces.com/contest/443/problem/A)
+24. [Way Too Long Word](https://codeforces.com/contest/71/problem/A)
+25. [Free Ice Cream](https://codeforces.com/contest/686/problem/A)
+26. [Helpful Maths](https://codeforces.com/contest/339/problem/A)
 
 
 

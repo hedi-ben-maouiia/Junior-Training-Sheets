@@ -12,7 +12,7 @@ int main(void)
         for(int j=0;j<5;++j){
             cin >> one;
             if(one == 1)
-                res = abs(2-i) + abs(2-j);      
+                res = abs(2-i) + abs(2-j);
         }
     }
     cout << res << "\n";

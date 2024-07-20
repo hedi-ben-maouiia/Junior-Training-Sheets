@@ -2,12 +2,11 @@
 
 using namespace std;
 
-
 int main(void)
 {
     int n = 0, count = 0;
     cin >> n;
-    int tmp = n; 
+    int tmp = n;
     while(tmp--){
         char c;
         cin >> c;
@@ -23,11 +22,11 @@ int main(void)
         return 0;
     }
     int res = (n / 2 + (n%2)) - count;
-    
+
     if (res == 0)
        cout << "Friendship\n";
     else if (res < 0)
         cout << "Anton\n";
-    else  
+    else
         cout << "Danik\n";
 }
