@@ -7,7 +7,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 
 
 ## List of the problem solved :
-**PS Count 26/950**
+**PS Count 30/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -24,7 +24,9 @@ This is a training sheet for competitive programming for practicing algorithm an
 13. [Black Square](https://codeforces.com/contest/431/problem/A)
 14. [Night at The Museum](https://codeforces.com/contest/731/problem/A)
 15. [Games](https://codeforces.com/contest/268/problem/A)
-- **Elementry Math Needed**
+
+- [Watch - Elementary Math - Introduction](https://www.youtube.com/watch?v=Syx2qDjj7TE)
+
 16. [Buy a Shovel](https://codeforces.com/contest/732/problem/A)
 17. [Is your horseshoe in the hoof](https://codeforces.com/contest/228/problem/A)
 18. [Colorful Stones](https://codeforces.com/contest/265/problem/A)
@@ -36,6 +38,15 @@ This is a training sheet for competitive programming for practicing algorithm an
 24. [Way Too Long Word](https://codeforces.com/contest/71/problem/A)
 25. [Free Ice Cream](https://codeforces.com/contest/686/problem/A)
 26. [Helpful Maths](https://codeforces.com/contest/339/problem/A)
+27. [Team Olimpiad](https://codeforces.com/contest/490/problem/A)
+28. [New Password](https://codeforces.com/contest/770/problem/A)
+
+- [Watch - Number Theory - Modular Arithmatic](https://www.youtube.com/watch?v=9sqvjnvuLtY)
+- [Watch - Combinatorics - Counting Principles](https://www.youtube.com/watch?v=sr6WgCLcgVM)
+
+29. [Light More Lisght](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)
+30. [Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1047)
+
 
 
 
