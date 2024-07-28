@@ -7,7 +7,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 
 
 ## List of the problem solved :
-**PS Count 33/950**
+**PS Count 35/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -48,7 +48,8 @@ This is a training sheet for competitive programming for practicing algorithm an
 31. [Uniform Generator](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=349)
 32. [Black And Whilte Painting](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2172)
 33. [Easy Math](https://www.spoj.com/problems/EASYMATH/)
-
+34. [Electricity](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3300)
+35. [Presents](https://codeforces.com/contest/136/problem/A)
 
 
 
