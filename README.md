@@ -7,7 +7,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 
 
 ## List of the problem solved :
-**PS Count 39/950**
+**PS Count 42/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -54,6 +54,9 @@ This is a training sheet for competitive programming for practicing algorithm an
 37. [Mahmoud and longest uncommon subsequence](https://codeforces.com/contest/766/problem/A)
 38. [Snack Tower](https://codeforces.com/problemset/problem/767/A)
 39. [Oath of the Night's Watch](https://codeforces.com/contest/768/problem/A)
+40. [Pangram](https://codeforces.com/contest/520/problem/A)
+41. [Twins](https://codeforces.com/contest/160/problem/A)
+42. [Keyboard](https://codeforces.com/contest/474/problem/A)
 
 
 
