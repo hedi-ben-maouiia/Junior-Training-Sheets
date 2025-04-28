@@ -2,12 +2,11 @@
 
 This is a training sheet for competitive programming for practicing algorithm and data_structures it have a 900 problem from easy to medium to hard. and I will put all the problems i solved in this repo and you can check it and use it as you like.
 
-
 - [JUNIOR TRAINING SHEETS](https://docs.google.com/spreadsheets/d/1Gpj-I6Y0QWh-R_xbliqBDhe_2hce47FKZQ-YrgtbSm8/edit?gid=1160016643#gid=1160016643)
 
 
 ## List of the problem solved :
-**PS Count 42/950**
+**PS Count 44/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -57,7 +56,8 @@ This is a training sheet for competitive programming for practicing algorithm an
 40. [Pangram](https://codeforces.com/contest/520/problem/A)
 41. [Twins](https://codeforces.com/contest/160/problem/A)
 42. [Keyboard](https://codeforces.com/contest/474/problem/A)
-
+43. [Even Odds](https://codeforces.com/contest/318/problem/A)
+44. [I wanna be the guy!](https://codeforces.com/contest/469/problem/A)
 
 
 

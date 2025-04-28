@@ -1,19 +1,15 @@
 #include <cctype>
 #include <iostream>
 #include <map>
-
 using std::cin, std::cout;
-
 void solve()
 {
     std::map<char,int> apper;
     for(char i='a'; i <= 'z';++i)
         apper[i] = -1;
-
     std::string ans;
     int n;
     cin >> n;
-
     std::string s;
     cin >> s;
     if(n < 26) {
@@ -31,7 +27,6 @@ void solve()
     }
     cout << "YES\n";
 }
-
 int main()
 {
     solve();
