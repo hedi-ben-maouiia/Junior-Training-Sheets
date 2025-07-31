@@ -6,7 +6,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 
 
 ## List of the problem solved :
-**PS Count 45/950**
+**PS Count 46/950**
 
 1. [Vanya and Fence ](https://codeforces.com/contest/677/problem/A)
 2. [Anton and Danik](http://codeforces.com/contest/734/problem/A)
@@ -59,6 +59,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 43. [Even Odds](https://codeforces.com/contest/318/problem/A)
 44. [I wanna be the guy!](https://codeforces.com/contest/469/problem/A)
 45. [Is it rated!](https://codeforces.com/contest/807/problem/A)
+46. [Olesya and Radion](https://codeforces.com/contest/584/problem/A)
 
 
 
