@@ -12,7 +12,6 @@ By Diving I mean, keep trying to solve the problem based on an idea, but time pa
 
     - Sometimes, Idea is correct, but they don't study enough algorithms to know how to continue
     - Sometimes, Idea is correct, but they don't do enough observations 
-
     - How to avoid stucking? 
 
 - It is very important to BRAINSOTRM on different solutions that my work, before focusing on one way. 
