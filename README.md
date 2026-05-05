@@ -60,7 +60,7 @@ This is a training sheet for competitive programming for practicing algorithm an
 44. [I wanna be the guy!](https://codeforces.com/contest/469/problem/A)
 45. [Is it rated!](https://codeforces.com/contest/807/problem/A)
 46. [Olesya and Radion](https://codeforces.com/contest/584/problem/A)
-47. 
+47. [Football](https://codeforces.com/contest/43/problem/A)
 
 
 
